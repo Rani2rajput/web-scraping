@@ -1,0 +1,22 @@
+{
+    "Name": "Big Hero 6",
+    "Rating": "PG",
+    "Genre": [
+        "Sci-fi",
+        "Adventure",
+        "Kids&family",
+        "Comedy",
+        "Animation",
+        "Action"
+    ],
+    "Language": "English",
+    "Director": [
+        "DonHall",
+        "ChrisWilliams"
+    ],
+    "Producer": [
+        "Roy",
+        "Conli"
+    ],
+    "Runtime": 102
+}
